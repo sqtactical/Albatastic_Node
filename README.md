@@ -1,5 +1,11 @@
 ## PCB compacta para E22/E22P con NRF52840
 
+Placa sencilla para montar un E22/E22P con un NRF52, con resistencias para monitorear el voltaje
+![imagen1](ArchivosV1.0/Preview_delante.png)
+![imagen2](ArchivosV1.0/Preview_detrás.png)
+
+
+
 V1.0 hecho a partir de la V1.1 de la Michtastic (https://github.com/Hamspiced/MichTastic_Node/tree/main)
 
 ---
@@ -27,6 +33,19 @@ V1.0 hecho a partir de la V1.1 de la Michtastic (https://github.com/Hamspiced/Mi
 8. **Enciende el nodo y verifica el funcionamiento**
 ---
 
+### 🚧 Work in progress 🚧
+Actualmente estoy trabajando en la versión V1.1, donde incluyo conexiones para el GPS, además de un hat/shield donde colocar un MPPT, booster y cargador USB-C. Los archivos estarán disponibles tras testarlos (si se anima algún beta tester, es recomendable)
+![imagen1](ArchivosV1.1/Preview1.1_delante.png)
+![imagen2](ArchivosV1.1/Preview1.1_detrás.png)
+
+El hat será compatible con 2 MPPTs, 2 cargadores USB-C, 1 booster y 1 cargador+booster
+![imagen1](ArchivosV1.1/Previewhat_delante.png)
+![imagen2](ArchivosV1.1/Previewhat_detrás.png)
+
+Planteo en el futuro montar el pro micro como SMD para poder añadir compatibilidad con el HT-RA62 o E80. También me planteo hacer una versión solo para el E80
+El progreso se puede seguir en el telegram de Meshtastic Albacete (enlace más abajo)
+
+---
 
 ### 💬 Comunidad
 
