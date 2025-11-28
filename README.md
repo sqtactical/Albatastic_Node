@@ -1,98 +1,41 @@
-## Michigan’s Own Low-Power, Low-Form-Factor LoRa Node for Meshtastic
+## PCB compacta para E22/E22P con NRF52840
 
-Simple NRF52840 / E22 Meshtastic node in an ultra-small form factor.
-
----
-
-### 🛠️ Installation Method
-
-1. **Solder the E22 Module**  
-   Use hot air or a hotplate to solder the E22 to the backside of the board.
-
-2. **Install Pin Headers**  
-   Solder pin headers on the front side of the board, bottoming them out on the E22.
-
-3. **Battery Connection (Optional)**  
-   If you want a directly connected battery, solder the two jumpers on the bottom of the MCU.
-
-4. **Battery Voltage Reporting (Optional)**  
-   - `R1` and `R2` can remain unpopulated if you don’t need battery voltage monitoring.
-
-5. **Fuse Configuration (Optional)**  
-   - `F1` and `F2` can be jumpered.  
-   - These are resettable fuses for those of us who can’t always follow `P+` and `P-` directions (like me).
-
-6. **Add I2C Screen (Optional)**
-	- Solder a I2C SSD1306 Screen to the pin pads.
-	- I reccomend [Dual Colored Oled](https://a.co/d/a9zIK9t)
----
-
-### 💾 Flashing Meshtastic Firmware
-
-1. **Put the Board in Bootloader Mode**  
-   - Connect the USB cable to your computer and Pro-micro
-   - With a small metal object, short the **GND** and **RST** pin on the Pro-micro quickly **twice**
-   - The board should appear as a USB drive
-
-2. **NEW BOARDS ONLY: Update the NICE_NANO Pro-micro Bootloader**
-   - If this is your first use of a new Pro-Micro, a bootloader upgrade is required
-   - Download and unzip the Pro-micro_bootloader_update.zip file.
-   - **DO NOT COPY BOTH FILES AT THE SAME TIME**
-   - Copy the Hex file **FIRST** and drop it onto the USB drive
-   - Then copy the UF2 file **NEXT** and drop it onto the USB drive
-   - The drive will disconnect
-   - Unplug the device and keep it powered off for 10 seconds.
-   - Plug it back in and start over with #3
-   - YOU WILL NOT BE DOING THIS AGAIN.
-
-3. **Flash via Meshtastic Flasher (Recommended)**  
-   - Download firmware from [Meshtastic Flasher](https://flasher.meshtastic.org).
-   - Select "NRF52 Pro-micro DIY" 
-   - Select your firmware version.
-   - Click **Download** and wait for completion.
-   - Drag the downloaded firmware file to the Pro-micro USB drive.
-   - The drive will disconnect
-   - Unplug the device and keep it powered off for 10 seconds.
-
-   **OR**
-
-**Flash via Command Line**
-
-4. **Install Dependencies**  
-   Make sure you have Python and the `esptool` or `nrfutil` utilities installed.  
-   > For NRF52840 boards, you can also use the Meshtastic Flasher GUI or `dfu-util`.
-
-5. **Download Firmware**  
-   - Get the latest NRF52 firmware release `.zip` or `.hex` file from the [Meshtastic releases page](https://github.com/meshtastic/firmware/releases).
-  
-
-   - Example using `nrfutil`:
-     ```bash
-     nrfutil dfu usb-serial -pkg firmware.zip -p /dev/ttyACM0
-     ```
-   - Replace `/dev/ttyACM0` with the correct serial port.
-
-6. **Verify Flashing**  
-   - After flashing, the device should reboot.
-   - Use the Meshtastic app or CLI to connect and configure.
+V1.0 hecho a partir de la V1.1 de la Michtastic (https://github.com/Hamspiced/MichTastic_Node/tree/main)
 
 ---
 
-### 💬 Community
+### 🛠️ Método de montaje
 
-Join the Michigan Meshtastic community on Discord:  
-[https://discord.gg/jXtpzh4B](https://discord.gg/jXtpzh4B)
+1. **Suelda el E22/E22P y la resistencias SMD**  
+   -Se puede soldar tanto con soldador, placa caliente o aire caliente. **Ojo a la hora de posicionar el E22/E22P**
+
+2. **Suelda el selector de E22/E22P según tu placa**
+   -Un punto de estaño rápido con el soldador es suficiente
+
+4. **Suelda los espadines**  
+   -Corta 1 espadín de la tira larga y alinealos con los agujeros (con el último de ellos, puedes ver que el primer agujero es un poco más pequeño y no entrará facilmente). Coloca la otra tira de 3 espadines en los otros agujeros, de manera que el lado largo de estos espadines sea el que está introducido en la PCB. Ahora pon el promicro encima y **solo suelda los espadines a la PCB del albatastic, no al promicro**. Quita el promicro y quita los separadores de plástico de los espadines.
+
+5. **Suelda el promicro**  
+   -Empuja el promicro hacia abajo y sueldalo. Corta los espadines sobrantes al acabar
+
+6. **Suelda la alimentación**  
+   - Se puede alimentar tanto a voltaje de batería (aunque el E22/E22P no sacará 1w), como a 5v. Tanto el voltaje de batería o los 5V irán a **5V**, tierra a **GND** y si quieres monitorear la batería, el positivo de la batería a **BAT** (si lo vas a alimentar con voltaje de batería hay un pequeño jumper que puedes soldar para monitorear la batería)
+
+7. **Conecta la antena**  
+   -Antes de encender el nodo, conecta la antena, para no dañar el módulo de radio
+
+8. **Enciende el nodo y verifica el funcionamiento**
+---
+
+
+### 💬 Comunidad
+
+Para cualquier duda, estamos en el telegram de Meshtastic Albacete (https://t.me/+MjpZDIBU9cBmZWRk)
 
 ---
 
-### 📝 License
+### 📝 Licencia
 
-This project is released under a **Non-Commercial Open Source License**.  
-You are free to use, modify, and share this design for **non-commercial purposes only**.  
-Commercial use requires explicit permission from the author.
-
----
-
-✅ **Tip:** For more detailed instructions, see [meshtastic.org/docs](https://meshtastic.org/docs).
+Proyecto Open Source **No comercial**
 
 ---
