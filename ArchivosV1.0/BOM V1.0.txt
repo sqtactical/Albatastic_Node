@@ -1,0 +1,7 @@
+Lista de materiales/ Bill of materials:
+
+-Módulo ebyte E22/E22P
+-Placa promicro NRF52
+-2 Resistencias SMD tamaño 1206 (Recomiendo 1M y 680k ohm, aunque puedes poner 2 de 1M)
+-Botón SMD tamaño 1260
+-(Recomendable) Booster a 5V
