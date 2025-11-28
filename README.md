@@ -7,22 +7,22 @@ V1.0 hecho a partir de la V1.1 de la Michtastic (https://github.com/Hamspiced/Mi
 ### 🛠️ Método de montaje
 
 1. **Suelda el E22/E22P y la resistencias SMD**  
-   -Se puede soldar tanto con soldador, placa caliente o aire caliente. **Ojo a la hora de posicionar el E22/E22P**
+   - Se puede soldar tanto con soldador, placa caliente o aire caliente. **Ojo a la hora de posicionar el E22/E22P**
 
 2. **Suelda el selector de E22/E22P según tu placa**
-   -Un punto de estaño rápido con el soldador es suficiente
+   - Un punto de estaño rápido con el soldador es suficiente
 
 4. **Suelda los espadines**  
-   -Corta 1 espadín de la tira larga y alinealos con los agujeros (con el último de ellos, puedes ver que el primer agujero es un poco más pequeño y no entrará facilmente). Coloca la otra tira de 3 espadines en los otros agujeros, de manera que el lado largo de estos espadines sea el que está introducido en la PCB. Ahora pon el promicro encima y **solo suelda los espadines a la PCB del albatastic, no al promicro**. Quita el promicro y quita los separadores de plástico de los espadines.
+   - Corta 1 espadín de la tira larga y alinealos con los agujeros (con el último de ellos, puedes ver que el primer agujero es un poco más pequeño y no entrará facilmente). Coloca la otra tira de 3 espadines en los otros agujeros, de manera que el lado largo de estos espadines sea el que está introducido en la PCB. Ahora pon el promicro encima y **solo suelda los espadines a la PCB del albatastic, no al promicro**. Quita el promicro y quita los separadores de plástico de los espadines.
 
 5. **Suelda el promicro**  
-   -Empuja el promicro hacia abajo y sueldalo. Corta los espadines sobrantes al acabar
+   - Empuja el promicro hacia abajo y sueldalo. Corta los espadines sobrantes al acabar
 
 6. **Suelda la alimentación**  
    - Se puede alimentar tanto a voltaje de batería (aunque el E22/E22P no sacará 1w), como a 5v. Tanto el voltaje de batería o los 5V irán a **5V**, tierra a **GND** y si quieres monitorear la batería, el positivo de la batería a **BAT** (si lo vas a alimentar con voltaje de batería hay un pequeño jumper que puedes soldar para monitorear la batería)
 
 7. **Conecta la antena**  
-   -Antes de encender el nodo, conecta la antena, para no dañar el módulo de radio
+   - Antes de encender el nodo, conecta la antena, para no dañar el módulo de radio
 
 8. **Enciende el nodo y verifica el funcionamiento**
 ---
