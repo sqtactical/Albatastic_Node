@@ -1,0 +1,19 @@
+Lista de materiales/Bill of materials:
+
+-Cargador solar (elige uno)/Solar chargers (choose one):
+-https://es.aliexpress.com/item/1005007473789907.html
+-https://es.aliexpress.com/item/1005007355378997.html
+
+-Cargador por USB-C (elige uno, opcional)/ USB-C charger (choose one, optional)
+-IP2312: https://es.aliexpress.com/item/1005008817589086.html
+-Cargador LiFePo4: https://es.aliexpress.com/item/1005009266422152.html
+
+-Booster + cargador USB-C (elige este O el otro booster)/ Booster + USB-C charger (choose this one or the standalone booster)
+https://es.aliexpress.com/item/1005008119734202.html
+
+-Booster
+https://es.aliexpress.com/item/1005007013856492.html
+
+-Diodos para el panel solar (solo para cuando se conecten 2 paneles solares)/Solar charger diodes (only for paralel solar panels)
+SS14:https://es.aliexpress.com/item/1005006643435874.html
+
