@@ -38,6 +38,10 @@ Esta PCB se ha utilizado en el nodo de "Molatower", localizado en la cima del Mo
 ![photo_5908823209509850083_y](https://github.com/user-attachments/assets/09a3cbc4-8b2f-423a-9920-03a9aa4e50d8)
 ![photo_5908823209509850082_y](https://github.com/user-attachments/assets/0920ba4b-05ae-433d-bf34-e13ad7d18f07)
 
+Con este nodo se han podido unir las provincias de Murcia y Valencia con Albacete.
+
+---
+
 ### 🚧 Work in progress 🚧
 Actualmente estoy trabajando en la versión V1.1, donde incluyo conexiones para el GPS, además de un hat/shield donde colocar un MPPT, booster y cargador USB-C. Los archivos estarán disponibles tras testarlos (si se anima algún beta tester, es recomendable)
 ![imagen1](ArchivosV1.1/Preview1.1_delante.png)
