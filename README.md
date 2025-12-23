@@ -58,7 +58,7 @@ El progreso se puede seguir en el telegram de Meshtastic Albacete (enlace más a
 
 ### 💬 Comunidad
 
-Para cualquier duda, estamos en el telegram de Meshtastic Albacete (https://t.me/+MjpZDIBU9cBmZWRk)
+Para cualquier duda, estamos en el telegram de Meshtastic Albacete ([https://t.me/+MjpZDIBU9cBmZWRk](https://t.me/+dGtI7Aes_qg2NDRk))
 
 ---
 
