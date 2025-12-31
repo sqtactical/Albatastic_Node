@@ -54,11 +54,7 @@ El hat será compatible con 2 MPPTs, 2 cargadores USB-C, 1 booster y 1 cargador+
 Planteo en el futuro montar el pro micro como SMD para poder añadir compatibilidad con el HT-RA62 o E80. También me planteo hacer una versión solo para el E80
 El progreso se puede seguir en el telegram de Meshtastic Albacete (enlace más abajo)
 
----
-
-### 💬 Comunidad
-
-Para cualquier duda, estamos en el telegram de Meshtastic Albacete ([https://t.me/+MjpZDIBU9cBmZWRk](https://t.me/+dGtI7Aes_qg2NDRk))
+Update: He añadido 2 condensadores SMD electrolíticos para mejor estabilidad del voltaje. Me planteo añadir pads para 3.3v, SDA y SCL por si alguien quisiera conectar módulos i2c
 
 ---
 
