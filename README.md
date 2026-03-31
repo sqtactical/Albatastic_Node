@@ -38,7 +38,7 @@ Esta PCB se ha utilizado en el nodo de "Molatower", localizado en la cima del Mo
 ![photo_5908823209509850083_y](https://github.com/user-attachments/assets/09a3cbc4-8b2f-423a-9920-03a9aa4e50d8)
 ![photo_5908823209509850082_y](https://github.com/user-attachments/assets/0920ba4b-05ae-433d-bf34-e13ad7d18f07)
 
-Con este nodo se han podido unir las provincias de Murcia y Valencia con Albacete.
+Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia con Albacete. Si tienes más fotos de la PCB en uso, no dudes en mandármelas
 
 ---
 
@@ -52,9 +52,11 @@ El hat será compatible con 2 MPPTs, 2 cargadores USB-C, 1 booster y 1 cargador+
 ![imagen2](ArchivosV1.1/Previewhat_detrás.png)
 
 Planteo en el futuro montar el pro micro como SMD para poder añadir compatibilidad con el HT-RA62 o E80. También me planteo hacer una versión solo para el E80
-El progreso se puede seguir en el telegram de Meshtastic Albacete (enlace más abajo)
+El progreso se puede seguir en el telegram de Albacete mesh
 
 Update: He añadido 2 condensadores SMD electrolíticos para mejor estabilidad del voltaje. Me planteo añadir pads para 3.3v, SDA y SCL por si alguien quisiera conectar módulos i2c
+
+Update: He añadido compatibilidad con el HT-RA62 y GPS
 
 ---
 
