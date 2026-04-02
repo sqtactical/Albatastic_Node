@@ -43,20 +43,14 @@ Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia c
 ---
 
 ### 🚧 Work in progress 🚧
-Actualmente estoy trabajando en la versión V1.1, donde incluyo conexiones para el GPS, además de un hat/shield donde colocar un MPPT, booster y cargador USB-C. Los archivos estarán disponibles tras testarlos (si se anima algún beta tester, es recomendable)
-![imagen1](ArchivosV1.1/Preview1.1_delante.png)
-![imagen2](ArchivosV1.1/Preview1.1_detrás.png)
+Actualmente estoy trabajando en la versión V1.1, donde incluyo conexiones para el GPS, además de un hat/shield donde colocar un MPPT, booster y cargador USB-C. 
+![imagen3](Archivos V1.1/prototipo_v1.1_f.png)
+![imagen3](Archivos V1.1/prototipo_v1.1_r.png)
+![imagen3](Archivos V1.1/prototipo_hat_f.png)
+![imagen3](Archivos V1.1/prototipo_hat_r.png)
 
-El hat será compatible con 2 MPPTs, 2 cargadores USB-C, 1 booster y 1 cargador+booster
-![imagen1](ArchivosV1.1/Previewhat_delante.png)
-![imagen2](ArchivosV1.1/Previewhat_detrás.png)
+Hay soporte para el HT-RA62 y mosfet para el GPS. Los archivos serán publicados cuando se termine de probar la placa
 
-Planteo en el futuro montar el pro micro como SMD para poder añadir compatibilidad con el HT-RA62 o E80. También me planteo hacer una versión solo para el E80
-El progreso se puede seguir en el telegram de Albacete mesh
-
-Update: He añadido 2 condensadores SMD electrolíticos para mejor estabilidad del voltaje. Me planteo añadir pads para 3.3v, SDA y SCL por si alguien quisiera conectar módulos i2c
-
-Update: He añadido compatibilidad con el HT-RA62 y GPS
 
 ---
 
