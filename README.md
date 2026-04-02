@@ -44,10 +44,12 @@ Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia c
 
 ### 🚧 Work in progress 🚧
 Actualmente estoy trabajando en la versión V1.1, donde incluyo conexiones para el GPS, además de un hat/shield donde colocar un MPPT, booster y cargador USB-C. 
-![imagen3](Archivos V1.1/prototipo_v1.1_f.png)
-![imagen3](Archivos V1.1/prototipo_v1.1_r.png)
-![imagen3](Archivos V1.1/prototipo_hat_f.png)
-![imagen3](Archivos V1.1/prototipo_hat_r.png)
+
+<img width="995" height="558" alt="prototipo_v1 1_f" src="https://github.com/user-attachments/assets/052228dc-d1a3-4564-8d50-3ab76e96426c" />
+<img width="935" height="551" alt="prototipo_v1 1_r" src="https://github.com/user-attachments/assets/81733120-3768-44c5-aa6e-3f3b586f603e" />
+<img width="921" height="542" alt="prototipo_hat_f" src="https://github.com/user-attachments/assets/30de14ae-e9fb-4481-acbf-70eb4781c002" />
+<img width="933" height="557" alt="prototipo_hat_r" src="https://github.com/user-attachments/assets/09d70ce7-dc2b-4b8e-95e2-545442934766" />
+
 
 Hay soporte para el HT-RA62 y mosfet para el GPS. Los archivos serán publicados cuando se termine de probar la placa
 
