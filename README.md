@@ -52,6 +52,11 @@ Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia c
 
 <br>
 
+#### [V1.2] - Sin testear 🚧
+* **Añadido:** Añadido pines para puerto serial
+* **Eliminado** Eliminado el condensador electrolítico
+* **Mejoras:** Simples mejoras en estética
+
 #### [V1.1.1] - Sin testear 🚧
 * **Corregido:** Error en la conexión de trazas con el RA62.
 
