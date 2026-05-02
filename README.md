@@ -51,23 +51,24 @@ Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia c
 <summary><b>📜 Ver Historial de Cambios (Changelog)</b></summary>
 
 <br>
+
 #### [V1.1.1] - Sin testear 🚧
-*   **Corregido:** Corregido un error en la conexión de trazas con el RA62
+* **Corregido:** Error en la conexión de trazas con el RA62.
 
 #### [V1.1] - Testeada 🚧
-*   **Añadido:** Soporte para módulo GPS externo.
-*   **Añadido:** Conexiones para Hat/Shield con MPPT y cargador USB-C.
-*   **Añadido:** Conexión para el RA62
-*   **Añadido:** Mosfet para control de energía del GPS.
-*   **Añadido:** Condensador SMD de 470uF en la placa de radio
+* **Añadido:** Soporte para módulo GPS externo.
+* **Añadido:** Conexiones para Hat/Shield con MPPT y cargador USB-C.
+* **Añadido:** Conexión para el RA62.
+* **Añadido:** Mosfet para control de energía del GPS.
+* **Añadido:** Condensador SMD de 470uF en la placa de radio.
 
-#### [V1.0] - Versión Inicial - Testeada y en funcionamiento pleno ✅
-*   **Lanzamiento:** Placa base compacta para E22/E22P.
-*   **Funcionalidad:** Monitorización de voltaje de batería mediante divisor de voltaje.
-*   **Hardware:** Soporte para NRF52840 Pro Micro.
+#### [V1.0] - Versión Inicial ✅
+* **Lanzamiento:** Placa base compacta para E22/E22P.
+* **Funcionalidad:** Monitorización de voltaje de batería mediante divisor de voltaje.
+* **Hardware:** Soporte para NRF52840 Pro Micro.
+* **Estado:** Testeada y en funcionamiento pleno.
 
 </details>
-
 ---
 
 ### 🚧 Work in progress 🚧
