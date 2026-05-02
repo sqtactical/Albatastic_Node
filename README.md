@@ -37,12 +37,20 @@ V1.0 hecho a partir de la V1.1 de la Michtastic ([Hamspiced/MichTastic_Node](htt
 <summary><b>📸 Haz clic aquí para ver Ejemplos de uso</b></summary>
 
 ### Casos de éxito
+## Versión 1.0
 Esta PCB se ha utilizado en el nodo de "Molatower", localizado en la cima del Molatón, Higueruela, Albacete, montado por nuestro compañero @ivansanchezfue4.
 
 ![photo_5908823209509850083_y](https://github.com/user-attachments/assets/09a3cbc4-8b2f-423a-9920-03a9aa4e50d8)
 ![photo_5908823209509850082_y](https://github.com/user-attachments/assets/0920ba4b-05ae-433d-bf34-e13ad7d18f07)
 
 Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia con Albacete. Si tienes más fotos de la PCB en uso, no dudes en mandármelas.
+## Versión 1.1
+Placa montada por nuestro compañero Francesc EA3HGP
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/58af8261-e498-4823-8ab5-ed7a57613fe7" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/061514d3-30f2-4292-9f17-3906b0814990" />
+
+
+
 </details>
 
 ---
