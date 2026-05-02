@@ -51,6 +51,8 @@ Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia c
 <summary><b>📜 Ver Historial de Cambios (Changelog)</b></summary>
 
 <br>
+#### [V1.1.1] - Sin testear 🚧
+*   **Corregido:** Corregido un error en la conexión de trazas con el RA62
 
 #### [V1.1] - Testeada 🚧
 *   **Añadido:** Soporte para módulo GPS externo.
