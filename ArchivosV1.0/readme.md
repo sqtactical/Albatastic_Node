@@ -11,5 +11,5 @@ Todos los enlaces puestos **NO** son afiliados y son meramente recomendaciones
 **OJO AL COMPRAR LOS NRF52** Hay una versión con la PCB roja que da bastantes problemas
 
 
-![imagen1](ArchivosV1.0/Preview_delante.png)
-![imagen2](ArchivosV1.0/Preview_detrás.png)
+![imagen1](Preview_delante.png)
+![imagen2](Preview_detrás.png)
