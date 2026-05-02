@@ -77,7 +77,6 @@ Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia c
 * **Estado:** Testeada y en funcionamiento pleno.
 
 </details>
----
 
 ### 🚧 Work in progress 🚧
 Actualmente estoy trabajando en la versión V1.1, donde incluyo conexiones para el GPS, además de un hat/shield donde colocar un MPPT, booster y cargador USB-C. 
