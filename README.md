@@ -59,10 +59,9 @@ Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia c
 *   **Añadido:** Mosfet para control de energía del GPS.
 *   **Añadido:** Condensador SMD de 470uF en la placa de radio
 
-#### [V1.0] - Versión Inicial ✅
+#### [V1.0] - Versión Inicial - Testeada y en funcionamiento pleno ✅
 *   **Lanzamiento:** Placa base compacta para E22/E22P.
-*   **Funcionalidad:** Monitorización de voltaje de batería mediante divisor resistivo.
-*   **Compatibilidad:** Basado en el diseño MichTastic V1.1 de Hamspiced.
+*   **Funcionalidad:** Monitorización de voltaje de batería mediante divisor de voltaje.
 *   **Hardware:** Soporte para NRF52840 Pro Micro.
 
 </details>
