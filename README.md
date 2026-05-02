@@ -52,9 +52,10 @@ Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia c
 
 <br>
 
-#### [V1.2] - Sin testear 🚧
+#### [V1.2] - Sin testear - En desarrollo 🚧
 * **Añadido:** Añadido pines para puerto serial
 * **Eliminado** Eliminado el condensador electrolítico
+* **Mejora:** Aumentaod el espesor de trazas de alimentación, BAT+ y GND
 * **Mejoras:** Simples mejoras en estética
 
 #### [V1.1.1] - Sin testear 🚧
@@ -66,6 +67,8 @@ Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia c
 * **Añadido:** Conexión para el RA62.
 * **Añadido:** Mosfet para control de energía del GPS.
 * **Añadido:** Condensador SMD de 470uF en la placa de radio.
+* **Añadido:** Añadido el pad BAT- por si hiciera falta que el negativo del divisor de voltaje no fuera común
+* **Mejora:** Aumentado el espesor de la traza de alimentación y GND
 
 #### [V1.0] - Versión Inicial ✅
 * **Lanzamiento:** Placa base compacta para E22/E22P.
