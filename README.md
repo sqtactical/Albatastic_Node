@@ -79,14 +79,19 @@ Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia c
 </details>
 
 ### 🚧 Work in progress 🚧
-Actualmente estoy trabajando en la versión V1.1, donde incluyo conexiones para el GPS, además de un hat/shield donde colocar un MPPT, booster y cargador USB-C. 
+Actualmente estoy trabajando en la versión V1.2, donde incluyo conexiones con serial. También estoy trabajando en el hat y en la versión para 2.4 GHz (con un E28)
 
-<img width="995" src="https://github.com/user-attachments/assets/052228dc-d1a3-4564-8d50-3ab76e96426c" alt="prototipo_v1 1_f" />
-<img width="935" src="https://github.com/user-attachments/assets/81733120-3768-44c5-aa6e-3f3b586f603e" alt="prototipo_v1 1_r" />
-<img width="921" src="https://github.com/user-attachments/assets/30de14ae-e9fb-4481-acbf-70eb4781c002" alt="prototipo_hat_f" />
-<img width="933" src="https://github.com/user-attachments/assets/09d70ce7-dc2b-4b8e-95e2-545442934766" alt="prototipo_hat_r" />
+V1.2 de la Albatastic compact (negro)
+<img width="832" height="467" alt="image" src="https://github.com/user-attachments/assets/d807bfd5-5872-4b4b-a02f-941e9a1bbd62" />
+V1.0 del hat solar (azul)
+<img width="816" height="468" alt="image" src="https://github.com/user-attachments/assets/9b738aea-6373-4c76-8c26-1381da6a4fca" />
+V1.0 de la versión para 2.4 GHz (rojo)
+<img width="872" height="516" alt="image" src="https://github.com/user-attachments/assets/d8d4aac5-59ec-433e-8a08-a5086d248a83" />
 
-Hay soporte para el HT-RA62 y mosfet para el GPS. Los archivos serán publicados cuando se termine de probar la placa.
+
+
+
+
 
 ---
 
