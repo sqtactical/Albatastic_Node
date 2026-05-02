@@ -47,6 +47,28 @@ Con este nodo se han podido unir las provincias de Murcia, Alicante y Valencia c
 
 ---
 
+<details>
+<summary><b>📜 Ver Historial de Cambios (Changelog)</b></summary>
+
+<br>
+
+#### [V1.1] - Testeada 🚧
+*   **Añadido:** Soporte para módulo GPS externo.
+*   **Añadido:** Conexiones para Hat/Shield con MPPT y cargador USB-C.
+*   **Añadido:** Conexión para el RA62
+*   **Añadido:** Mosfet para control de energía del GPS.
+*   **Añadido:** Condensador SMD de 470uF en la placa de radio
+
+#### [V1.0] - Versión Inicial ✅
+*   **Lanzamiento:** Placa base compacta para E22/E22P.
+*   **Funcionalidad:** Monitorización de voltaje de batería mediante divisor resistivo.
+*   **Compatibilidad:** Basado en el diseño MichTastic V1.1 de Hamspiced.
+*   **Hardware:** Soporte para NRF52840 Pro Micro.
+
+</details>
+
+---
+
 ### 🚧 Work in progress 🚧
 Actualmente estoy trabajando en la versión V1.1, donde incluyo conexiones para el GPS, además de un hat/shield donde colocar un MPPT, booster y cargador USB-C. 
 
