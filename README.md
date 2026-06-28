@@ -60,13 +60,27 @@ Placa montada por nuestro compañero Francesc EA3HGP
 
 <br>
 
-#### [V1.2] - Sin testear - En desarrollo 🚧
+#### [V2.0] - Testeada, funciona parcialmente
+* **Cambio importante:** Se pasa el promicro de THT a SMD, con su agujero para poder acceder al selector que hay que soldar para que cargue a 100mA
+* **Añadido:** Booster HW-085 para E22/E22P
+* **Añadido:** Compatibilidad con el E80
+
+
+#### [V1.3] - Sin testear - En desarrollo 🚧
+* **Añadido:** Plano de tierra
+* **Añadido:** Jumper para separar el negativo de las resistencias de monitorización de la batería de GND
+* **Añadido:** Jumper para seleccionar si se quiere alimentar el pro micro a 5V (No compatible con 5V y batería al mismo tiempo)
+* **Añadido:** Pads para I2C
+* **Añadido:** Condensador de tántalo de 100uF (opcional)
+* **Mejora:** El selector entre E22/E22P está ahora fuera de debajo del promicro
+
+#### [V1.2] - Testeando 🚧
 * **Añadido:** Añadido pines para puerto serial
 * **Eliminado** Eliminado el condensador electrolítico
-* **Mejora:** Aumentaod el espesor de trazas de alimentación, BAT+ y GND
+* **Mejora:** Aumentado el espesor de trazas de alimentación, BAT+ y GND
 * **Mejoras:** Simples mejoras en estética
 
-#### [V1.1.1] - Sin testear 🚧
+#### [V1.1.1] - Testeada con éxito ✅
 * **Corregido:** Error en la conexión de trazas con el RA62.
 
 #### [V1.1] - Testeada 🚧
