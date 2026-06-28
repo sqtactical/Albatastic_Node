@@ -1,5 +1,7 @@
 Placa compatible con el Ebyte E28. Hay que usar el firmware modificado para que sea compatible con el E28-2G4M27SX
 
+<img width="927" height="550" alt="image" src="https://github.com/user-attachments/assets/d827d36f-6de3-4820-a704-2acb0f7184fb" />
+<img width="1043" height="610" alt="image" src="https://github.com/user-attachments/assets/63dc6ca2-6fae-4526-8ef2-33a77faa8dd0" />
 
 
 Changelog:
