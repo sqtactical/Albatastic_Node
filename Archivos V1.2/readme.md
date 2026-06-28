@@ -6,7 +6,6 @@
 | **HT RA-62** | Módulo de radio de bajo consumo y QRP |  [Comprar en AliExpress](https://es.aliexpress.com/item/1005008363549136.html) |
 | **Resistencias 1206** | Pack de 100 unidades. Necesario de 680K y 10M |  [Comprar en AliExpress](https://es.aliexpress.com/item/1005002991902748.html) |
 | **Botón reset** | Opcional |  [Comprar en AliExpress](https://es.aliexpress.com/item/4001125532910.html) |
-| **Condensador electrolítico SMD 16V 470 uF** | Recomendable si no lo tienes en la placa de alimentación |  [Comprar en AliExpress](https://es.aliexpress.com/item/1005011788806644.html) |
 
 
 Todos los enlaces puestos **NO** son afiliados y son meramente recomendaciones
