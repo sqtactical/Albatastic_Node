@@ -60,6 +60,13 @@ Placa montada por nuestro compañero Francesc EA3HGP
 
 <br>
 
+#### [V2.2] - Sin testear - En desarrollo 🚧
+* **Añadido:** Se añade pads y conexiones para el E28-2G4M27SX
+
+
+#### [V2.1] - Sin testear - En desarrollo 🚧
+* **Cambio:** Corregido el problema que tenía al alimentar por 5V y BAT+. Ahora se alimenta por BAT+, con opción de usar un jumper para 5V (por ejemplo, para nodos a red)
+
 #### [V2.0] - Testeada, funciona parcialmente
 * **Cambio importante:** Se pasa el promicro de THT a SMD, con su agujero para poder acceder al selector que hay que soldar para que cargue a 100mA
 * **Añadido:** Booster HW-085 para E22/E22P
