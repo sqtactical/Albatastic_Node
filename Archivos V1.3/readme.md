@@ -12,3 +12,16 @@
 Todos los enlaces puestos **NO** son afiliados y son meramente recomendaciones
 
 **OJO AL COMPRAR LOS NRF52** Hay una versión con la PCB roja que da bastantes problemas
+
+#### [V1.3] - Sin testear - En desarrollo 🚧
+* **Añadido:** Plano de tierra
+* **Añadido:** Jumper para separar el negativo de las resistencias de monitorización de la batería de GND
+* **Añadido:** Jumper para seleccionar si se quiere alimentar el pro micro a 5V (No compatible con 5V y batería al mismo tiempo)
+* **Añadido:** Pads para I2C
+* **Añadido:** Condensador de tántalo de 100uF (opcional)
+* **Mejora:** El selector entre E22/E22P está ahora fuera de debajo del promicro
+
+<img width="976" height="571" alt="image" src="https://github.com/user-attachments/assets/1a712e6e-0542-45ef-a553-c8c89c0b823b" />
+<img width="931" height="542" alt="image" src="https://github.com/user-attachments/assets/18c5bec0-c657-4c92-8e6f-272648f0c04d" />
+
+
