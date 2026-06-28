@@ -61,7 +61,7 @@ Placa montada por nuestro compañero Francesc EA3HGP
 <br>
 
 #### [V2.2] - Sin testear - En desarrollo 🚧
-* **Añadido:** Se añade pads y conexiones para el E28-2G4M27SX
+* **Añadido:** Se añade pads y conexiones para el E28-2G4M27SX. Para este último chip es necesario usar firmware modificado
 
 
 #### [V2.1] - Sin testear - En desarrollo 🚧
@@ -90,7 +90,7 @@ Placa montada por nuestro compañero Francesc EA3HGP
 #### [V1.1.1] - Testeada con éxito ✅
 * **Corregido:** Error en la conexión de trazas con el RA62.
 
-#### [V1.1] - Testeada 🚧
+#### [V1.1] - Testeada, funcionamiento parcial 🚧
 * **Añadido:** Soporte para módulo GPS externo.
 * **Añadido:** Conexiones para Hat/Shield con MPPT y cargador USB-C.
 * **Añadido:** Conexión para el RA62.
@@ -108,14 +108,7 @@ Placa montada por nuestro compañero Francesc EA3HGP
 </details>
 
 ### 🚧 Work in progress 🚧
-Actualmente estoy trabajando en la versión V1.2, donde incluyo conexiones con serial. También estoy trabajando en el hat y en la versión para 2.4 GHz (con un E28)
-
-V1.2 de la Albatastic compact (negro)
-<img width="832" height="467" alt="image" src="https://github.com/user-attachments/assets/d807bfd5-5872-4b4b-a02f-941e9a1bbd62" />
-V1.0 del hat solar (azul)
-<img width="816" height="468" alt="image" src="https://github.com/user-attachments/assets/9b738aea-6373-4c76-8c26-1381da6a4fca" />
-V1.0 de la versión para 2.4 GHz (rojo)
-<img width="872" height="516" alt="image" src="https://github.com/user-attachments/assets/d8d4aac5-59ec-433e-8a08-a5086d248a83" />
+Actualmente estoy trabajando en la V2.X y en más hats solares, además de poder hacer placas para otros componentes. En principio las V1.X serán con promicro en THT y las V2.X, en SMD. **Recomiendo las V1.X para nodos solares/infraestructura** ya que se puede cambiar el promicro fácilmente o incluso poner para que se pueda extraer
 
 
 
