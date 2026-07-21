@@ -5,8 +5,12 @@ Placa compatible con el Ebyte E28. Hay que usar el firmware modificado para que 
 
 
 Changelog:
-
 #### [V1.1] - Sin testear - En desarrollo 🚧
+* **Corregido:** Corregido el cortocircuito que había entre 3.3V y GND
+* **Añadido:** Reintroducido otra forma de alimentar el E28 ya que no es suficiente para sacar la potencia máxima
+* **Añadido:** Selector para alimentar el E28 y el Pro micro
+
+#### [V1.0] - Testeando 
 * **Eliminado:** Eliminada 2 de las opciones de alimentar el E28, ya que con el propio pro micro basta (habrá que estudiar bien si aguanta mucho tráfico)
 * **Cambio:** Se conmuta TX EN por el pin 106 del pro micro (que estaba libre). Es necesario usar el firmware subido en esta página
 * **Añadido:** Condensador de tántalo B de 100uF
