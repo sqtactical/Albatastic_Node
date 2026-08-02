@@ -71,7 +71,7 @@ Placa montada por el compañero **Francesc EA3HGP**:
 > [!NOTE]
 > **Nomenclatura del proyecto:** Las versiones **V1.X** utilizan el Pro Micro en formato THT (Recomendado para nodos fijos ya que se puede preparar para que el pro micro sea extraible). Las versiones **V2.X** migran a formato SMD. Las versiones 3.0 serán con el NRF52 embedded (si puedo lograrlo)
 
-#### 🚧 V2.2 (En desarrollo - Sin testear)
+#### 🚧 V2.2 (Fabricada - Sin testear)
 * **Añadido:** Pads y ruteado para el módulo **E28-2G4M27SX** (Requiere firmware modificado).
 
 #### 🚧 V2.1 (En desarrollo - Sin testear)
@@ -90,7 +90,7 @@ Placa montada por el compañero **Francesc EA3HGP**:
 * **Añadido:** Footprint para condensador de tántalo opcional de 100uF.
 * **Mejora:** El selector E22/E22P se desplaza fuera del área oculta por el Pro Micro.
 
-#### 🚧 V1.2 (En fase de testeo)
+#### ✅ V1.2 (Testeada con éxito)
 * **Añadido:** Salida de pines para serial.
 * **Eliminado:** Condensador electrolítico SMD
 * **Mejora:** Incrementado notablemente el grosor de las pistas críticas de potencia (5V y GND).
