@@ -46,16 +46,16 @@ Placa base sencilla optimizada para montar un módulo de radio **E22/E22P** junt
 
 Utiliza esta tabla para decidir qué versión mandar a fabricar según tus necesidades de montaje y estado del proyecto:
 
-| Versión | Formato | Estado HW | Soporte | Características Destacadas | Recomendación |
+| Versión | Formato Pro Micro | Estado HW | Soporte | Características Destacadas | Recomendación |
 | :--- | :---: | :---: | :---: | :--- | :--- |
 | **V1.0** | THT | ✅ Probada | ❌ Sin soporte | Versión base inicial con divisor de tensión. | **Obsoleta.** Usar V1.2. |
 | **V1.1** | THT | ⚠️ Func. Parcial | ❌ Sin soporte | Añade GPS, MOSFET y huella RA62. | **Obsoleta y no publicada** Contiene fallo de ruteado RA62. |
-| **V1.1.1** | THT | ✅ Probada | 🟡 Soporte parcial | Corrección de ruteado RA62, soporte GPS + MOSFET. | Usar si necesitas GPS |
-| **V1.2** | THT | ✅ Estable | 🟢 Soporte | Pistas gruesas, salida Serial. | **Principal recomendada THT** para nodos fijos. |
-| **V1.3** | THT | 🚧 Por testear| 🟢 Soporte | Plano GND, bus I2C, aislamiento BAT-, jumper 5V. | Versión actualizada con pads I2C |
-| **V2.0** | SMD | ⚠️ Func. Parcial | ❌ Sin soporte | Pro Micro SMD, booster HW-085, radio E80. | **Obsoleta.** Reemplazada por V2.1/V2.2 |
-| **V2.1** | SMD | 🚧 En desarrollo | 🟢 Soporte | Corrección prioridad de alimentación BAT+ vs 5V. | Rama de desarrollo SMD. |
-| **V2.2** | SMD | 🚧 Fabricada, por testear | 🟢 Soporte | Base V2.1 + pads para **E28-2G4M27SX** (2.4GHz). | **Recomendada para nodos portátiles** |
+| **V1.1.1** | THT | ✅ Probada | 🟡 Soporte parcial | Corrección de ruteado RA62, soporte GPS + MOSFET. | Usar V1.2, versión desactualizada |
+| **V1.2** | THT | ✅ Estable | 🟢 Soporte | Pistas gruesas, salida Serial. | **Principal recomendada con Pro Micro THT** para nodos fijos. |
+| **V1.3** | THT | 🚧 Por testear | 🟢 Soporte | Plano GND, bus I2C, aislamiento BAT-, jumper 5V. | Versión actualizada con pads I2C **Falta de testear** |
+| **V2.0** | SMD | ⚠️ Func. Parcial | ❌ Sin soporte | Pro Micro SMD, booster HW-085, radio E80. | **Obsoleta, sin publicar.** Reemplazada por V2.1/V2.2 |
+| **V2.1** | SMD | 🚧 En desarrollo | 🟢 Soporte | Corrección prioridad de alimentación BAT+ vs 5V. | **Recomendado usar la V2.2**. |
+| **V2.2** | SMD | 🚧 Fabricada, por testear | 🟢 Soporte | Base V2.1 + pads para **E28-2G4M27SX** (2.4GHz). | **Recomendada para nodos portátiles, Pro micro en montaje de superficie (SMD)** |
 
 ---
 
