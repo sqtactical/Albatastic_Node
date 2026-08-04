@@ -48,9 +48,9 @@ Utiliza esta tabla para decidir qué versión mandar a fabricar según tus neces
 
 | Versión | Formato Pro Micro | Estado HW | Características Destacadas | Recomendación |
 | :--- | :---: | :---: | :---: | :--- |
-| **V1.2** | THT | ✅ Estable | Pistas gruesas, salida Serial. | **Principal recomendada con Pro Micro THT** para nodos fijos. |
-| **V1.3** | THT | 🚧 Por testear | Plano GND, bus I2C, aislamiento BAT-, jumper 5V. | Versión actualizada con pads I2C **Falta de testear** |
-| **V2.2** | SMD | 🚧 Fabricada, por testear | Base V2.1 + pads para **E28-2G4M27SX** (2.4GHz). | **Recomendada para nodos portátiles, Pro micro en montaje de superficie (SMD)**, Ante la duda, elige la V1.2 |
+| **V1.2** | Estándar | ✅ Estable | Pistas gruesas, salida Serial. | **Principal recomendada con Pro Micro THT** para nodos fijos. |
+| **V1.3** | Estándar | 🚧 Por testear | Plano GND, bus I2C, aislamiento BAT-, jumper 5V. | Versión actualizada con pads I2C **Falta de testear** |
+| **V2.2** | Superficie | 🚧 Fabricada, por testear | Base V2.1 + pads para **E28-2G4M27SX** (2.4GHz). | **Recomendada para nodos portátiles, Pro micro en montaje de superficie (SMD)**, Ante la duda, elige la V1.2 |
 
 ---
 
