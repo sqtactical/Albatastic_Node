@@ -46,7 +46,7 @@ Placa base sencilla optimizada para montar un módulo de radio **E22/E22P** junt
 
 Utiliza esta tabla para decidir qué versión mandar a fabricar según tus necesidades de montaje y estado del proyecto:
 
-| Versión | Formato Pro Micro | Estado HW  Características Destacadas | Recomendación |
+| Versión | Formato Pro Micro | Estado HW | Características Destacadas | Recomendación |
 | :--- | :---: | :---: | :---: | :--- |
 | **V1.2** | THT | ✅ Estable | Pistas gruesas, salida Serial. | **Principal recomendada con Pro Micro THT** para nodos fijos. |
 | **V1.3** | THT | 🚧 Por testear | Plano GND, bus I2C, aislamiento BAT-, jumper 5V. | Versión actualizada con pads I2C **Falta de testear** |
