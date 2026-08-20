@@ -6,7 +6,7 @@
 | **HT RA-62** | Módulo de radio de bajo consumo y QRP |  [Comprar en AliExpress](https://es.aliexpress.com/item/1005008363549136.html) |
 | **Ebyte E80** | Alternativa al HT RA62 con el LR1121 |  [Comprar en AliExpress](https://es.aliexpress.com/item/1005010296090190.html) |
 | **Ebyte E28** | Módulo de 2.4GHz |  [Comprar en AliExpress](https://es.aliexpress.com/item/1005010288386483.html) |
-| **Resistencias 1206** | Pack de 100 unidades. Necesario de 680K y 10M |  [Comprar en AliExpress](https://es.aliexpress.com/item/1005002991902748.html) |
+| **Resistencias 1206** | Pack de 100 unidades. Necesario de 680K y 1M |  [Comprar en AliExpress](https://es.aliexpress.com/item/1005002991902748.html) |
 | **Botón reset** | Opcional |  [Comprar en AliExpress](https://es.aliexpress.com/item/4001125532910.html) |
 | **Condensador de tántalo B 10v 100uF** | Recomendable aunque ya haya otro en la alimentacion |  [Comprar en AliExpress](https://es.aliexpress.com/item/1005005601758490.html) |
 | **Boost HW-085** | Recomendable si solo vas a trabajar a batería (nodos portátiles) |  [Comprar en AliExpress](https://es.aliexpress.com/item/1005007013856492.html) |
