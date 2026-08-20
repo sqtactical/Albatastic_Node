@@ -127,5 +127,11 @@ Placa montada por el compañero **Francesc EA3HGP**:
 
 ---
 
+> ⚠️ **Aviso de responsabilidad / Legal Disclaimer:**  
+> **🇪🇸:** Queda bajo la responsabilidad exclusiva del usuario final garantizar que la fabricación, configuración y uso de estas placas o dispositivos cumpla con la legislación y normativa de telecomunicaciones aplicable en su país o región.  
+> **🇬🇧:** It is the sole responsibility of the end user to ensure that the assembly, configuration, and operation of these PCBs comply with applicable local telecommunications laws and regulations.
+> 
+---
+
 ### 📝 Licencia
 Proyecto Open Source **No Comercial**
