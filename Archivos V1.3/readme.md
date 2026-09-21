@@ -13,6 +13,9 @@ Todos los enlaces puestos **NO** son afiliados y son meramente recomendaciones
 
 **OJO AL COMPRAR LOS NRF52** Hay una versión con la PCB roja que da bastantes problemas
 
+#### [V1.3.1] - Sin testear - En desarrollo 🚧
+* **Corregido:** Corregido el funcionamiento del HT RA62 (otra vez)
+
 #### [V1.3] - Sin testear - En desarrollo 🚧
 * **Añadido:** Plano de tierra
 * **Añadido:** Jumper para separar el negativo de las resistencias de monitorización de la batería de GND
