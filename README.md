@@ -83,6 +83,9 @@ Placa montada por el compañero **Francesc EA3HGP**:
 > [!NOTE]
 > **Nomenclatura del proyecto:** Las versiones **V1.X** utilizan el Pro Micro en formato THT (Recomendado para nodos fijos ya que se puede preparar para que el pro micro sea extraible). Las versiones **V2.X** migran a formato SMD. Las versiones 3.0 serán con el NRF52 embedded (si puedo lograrlo)
 
+#### 🚧 V2.2.1 (En desarrollo - Sin testear)
+* **Corregido:**  Error de ruteado en las trazas de conexión con el chip RA62. (Otra vez)
+
 #### 🚧 V2.2 (Fabricada - Sin testear)
 * **Añadido:** Pads y ruteado para el módulo **E28-2G4M27SX** (Requiere firmware modificado).
 
@@ -93,6 +96,9 @@ Placa montada por el compañero **Francesc EA3HGP**:
 * **Cambio estructural:** Migración del Pro Micro de formato THT a **SMD** (con ventana calada en la PCB para acceder al selector de carga de 300mA trasero).
 * **Añadido:** Espacio para Booster integrado **HW-085** (específico para el E22/E22P a 5V).
 * **Añadido:** Compatibilidad con el módulo de radio **E80**.
+
+#### 🚧 V1.3.1 (En desarrollo - Sin testear)
+* **Corregido:**  Error de ruteado en las trazas de conexión con el chip RA62. (Otra vez)
 
 #### 🚧 V1.3 (En desarrollo - Sin testear)
 * **Mejora:**  Añadido plano de tierra completo (GND plane).
